@@ -21,9 +21,17 @@ We wanted to gain an accurate and deep understanding of the relationship of diff
 
 By inserting a pivot table and filtering by 'Theather' as Parent Category, we were able to make a chart that represents the *Outcomes based on a Launching date.* With this visualization, we identified if there was a month in which there were more successful campaign launches and in which month were more failed campaign launches.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/78564912/133183458-9e1f4cd0-4fca-4435-a1b9-37962660da2f.png)
+
+
 ### Analysis of Outcomes Based on Goals
 
 Applying a simple `COUNTIF` formula, we could get the *Outcomes based on Goal*. Within a USD scale ranging from $0 to greater than $50,000 we are able to identify at which range/level there were more porcentage of successful and failed campaigns, but also the relationship between these two. It would seem that not because a campaign raised/pledged more money, is going to be necessarily a success.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/78564912/133183390-e47b44eb-da95-4448-9e14-1afb92f02bfe.png)
+
+![table](https://user-images.githubusercontent.com/78564912/133183436-b86d5931-eee1-456d-830d-b94961c67ba0.png)
+
 
 ### Challenges and Difficulties Encountered
 
